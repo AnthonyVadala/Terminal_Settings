@@ -13,6 +13,7 @@ gh
 git
 git-lfs
 github-markdown-toc
+gmp
 go
 icu4c
 jemalloc
@@ -36,6 +37,7 @@ nmap
 node
 oniguruma
 openssl@1.1
+openssl@3
 pcre
 pcre2
 pkg-config
