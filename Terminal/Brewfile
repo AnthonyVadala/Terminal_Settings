@@ -2,6 +2,7 @@ autoconf
 balena-cli
 brotli
 c-ares
+ca-certificates
 cmatrix
 coreutils
 cowsay
@@ -21,6 +22,7 @@ jq
 libev
 libevent
 libidn2
+libnghttp2
 libscrypt
 libunistring
 libuv
@@ -38,6 +40,7 @@ node
 oniguruma
 openssl@1.1
 openssl@3
+partial-emlx-converter
 pcre
 pcre2
 pkg-config
@@ -45,6 +48,7 @@ pngpaste
 pokemonsay
 python
 python3
+python@3.10
 python@3.8
 python@3.9
 rbenv
@@ -59,6 +63,7 @@ telnet
 tor
 transmission-cli
 wget
+wimlib
 xz
 youtube-dl
 zsh
