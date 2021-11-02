@@ -2,10 +2,10 @@
 My macOS terminal settings, .bash_profile and .zshrc
 
 - [.bash_profile](https://github.com/AnthonyVadala/Terminal_Settings/blob/master/Terminal/.bash_profile)
-This is where all the fun stuff happens!
+This is where all the fun stuff happens! (No longer updated since macOS switched from bash to zsh)
 
 - [.zshrc](https://github.com/AnthonyVadala/Terminal_Settings/blob/master/Terminal/.zshrc)
-Oh My Zsh configs for Catalina.
+Oh My Zsh configs for Monterey.
 
 - [Brewfile](https://github.com/AnthonyVadala/Terminal_Settings/blob/master/Terminal/Brewfile)
 What I brew on my system! If you don't Homebrew get it [here!](http://brew.sh/)
