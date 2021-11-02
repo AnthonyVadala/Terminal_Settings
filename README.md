@@ -11,7 +11,7 @@ Oh My Zsh configs for Catalina.
 What I brew on my system! If you don't Homebrew get it [here!](http://brew.sh/)
 
 - [Caskfile](https://github.com/AnthonyVadala/Terminal_Settings/blob/master/Terminal/Caskfile)
-Extend Homebrew's capabilities to install macOS applications! Get it [here!](http://caskroom.io/)
+Extend Homebrew's capabilities to install macOS applications! Get it [here!](http://brew.sh/)
 
 - [Terminal Settings.terminal](https://github.com/AnthonyVadala/Terminal_Settings/blob/master/Terminal/.bash_profile)
 I made the terminal look pretty on macOS, hope you like it!
