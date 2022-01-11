@@ -130,3 +130,7 @@ alias homebrew-all-in-one="~/Documents/Scripts/Homebrew_All_In_One.sh"
 
 #Homebrew sbin PATH
 export PATH="/usr/local/sbin:$PATH"
+
+#Jekyll Ruby PATH
+eval "$(rbenv init - zsh)"
+export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"
