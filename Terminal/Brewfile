@@ -5,6 +5,7 @@ c-ares
 ca-certificates
 cheat
 cmatrix
+coreutils
 cowsay
 docbook
 docbook-xsl
@@ -20,6 +21,7 @@ git
 git-lfs
 github-markdown-toc
 glib
+gmp
 gnu-getopt
 icu4c
 imagemagick
@@ -34,6 +36,7 @@ libffi
 libheif
 libidn
 libidn2
+libkeccak
 liblqr
 libnghttp2
 libomp
@@ -60,14 +63,17 @@ openssl@1.1
 pcre
 pcre2
 pkg-config
+pokemonsay
 pv
 python@3.10
 python@3.9
 rbenv
 readline
+rename
 ruby
 ruby-build
 screenresolution
+sha3sum
 shared-mime-info
 sqlite
 terraform
