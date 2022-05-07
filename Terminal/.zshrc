@@ -109,14 +109,18 @@ alias c='clear'
 alias dt='tee ~/Desktop/terminalOut.txt'
 #Lists all available commands
 alias list="compgen -c | sort"
-#Reloads .bash_profile for current session
-alias bash-reload=". ~/.bash_profile"
+#Long listing
+alias ll='ls -la'
+#Reloads .zshrc for current session
+alias zsh-reload=". ~/.zshrc"
 #Path to iCloud 
 alias icloud="~/Library/Mobile\ Documents/com~apple~CloudDocs/"
 # Opens current directory in MacOS Finder
 alias finder='open -a Finder ./'
 # Metasploit Alias
 alias metasploit='/opt/metasploit-framework/bin/msfconsole'
+# New Oh My Zsh update command
+alias upgrade_oh_my_zsh='omz update'
 
 # Script Aliases
 #Copies .bash_profile, bash scripts, Brew Caskfile, and Brewfile to GitHub directory
@@ -127,6 +131,9 @@ alias hidden-toggle="~/Documents/Scripts/Toggle_Hidden.sh"
 alias clean="~/Documents/Scripts/Clean_Desktop.sh"
 #Automates Homebrew updates, dependancies, cleanup, and doctor
 alias homebrew-all-in-one="~/Documents/Scripts/Homebrew_All_In_One.sh"
+
+#bin folder PATH
+export PATH="~/bin:$PATH"
 
 #Homebrew sbin PATH
 export PATH="/usr/local/sbin:$PATH"
