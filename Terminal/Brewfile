@@ -37,11 +37,13 @@ libheif
 libidn
 libidn2
 libkeccak
+liblinear
 liblqr
 libnghttp2
 libomp
 libpng
 libraw
+libssh2
 libtiff
 libtool
 libunistring
@@ -49,6 +51,7 @@ libuv
 libvmaf
 libyaml
 little-cms2
+lua@5.3
 m4
 make
 mpdecimal
