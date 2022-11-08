@@ -23,12 +23,14 @@ github-markdown-toc
 glib
 gmp
 gnu-getopt
+highway
 icu4c
 imagemagick
 imath
 jasper
 jbig2dec
 jpeg
+jpeg-turbo
 jpeg-xl
 libde265
 libevent
