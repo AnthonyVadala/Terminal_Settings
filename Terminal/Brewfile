@@ -54,6 +54,7 @@ libvmaf
 libyaml
 little-cms2
 lua@5.3
+lz4
 m4
 make
 mpdecimal
@@ -71,6 +72,7 @@ pkg-config
 pokemonsay
 pv
 python@3.10
+python@3.11
 python@3.9
 rbenv
 readline
@@ -89,3 +91,5 @@ x265
 xmlto
 xz
 youtube-dl
+yt-dlp
+zstd
