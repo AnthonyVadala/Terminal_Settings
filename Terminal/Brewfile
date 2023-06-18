@@ -29,7 +29,6 @@ imagemagick
 imath
 jasper
 jbig2dec
-jpeg
 jpeg-turbo
 jpeg-xl
 libde265
@@ -53,7 +52,7 @@ libuv
 libvmaf
 libyaml
 little-cms2
-lua@5.3
+lua
 lz4
 m4
 make
@@ -66,6 +65,7 @@ node
 openexr
 openjpeg
 openssl@1.1
+openssl@3
 pcre
 pcre2
 pkg-config
