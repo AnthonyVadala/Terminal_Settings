@@ -4,6 +4,7 @@ brotli
 c-ares
 ca-certificates
 cask
+certifi
 cheat
 cmatrix
 coreutils
@@ -59,7 +60,6 @@ lz4
 m4
 make
 mpdecimal
-nativefier
 neofetch
 nethack
 nettle
