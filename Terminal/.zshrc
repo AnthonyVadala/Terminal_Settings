@@ -139,8 +139,6 @@ export PATH="~/bin:$PATH"
 export PATH="/usr/local/sbin:$PATH"
 
 #Jekyll Ruby PATH
-eval "$(rbenv init - zsh)"
-export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"
 source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
 source /opt/homebrew/opt/chruby/share/chruby/auto.sh
 chruby ruby-3.3.5
