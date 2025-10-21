@@ -20,8 +20,11 @@ icu4c@77
 libevent
 libffi
 libnghttp2
+libnghttp3
+libngtcp2
 libuv
 libyaml
+lz4
 m4
 macfetch
 migrator
@@ -32,9 +35,13 @@ node
 openssl@3
 pokemonsay
 python@3.13
+python@3.14
 readline
 ruby-install
+simdjson
 sqlite
 transmission-cli
+uvwasi
 xz
 yt-dlp
+zstd
