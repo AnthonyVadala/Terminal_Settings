@@ -33,6 +33,7 @@ mpdecimal
 nethack
 node
 openssl@3
+pipx
 pokemonsay
 python@3.13
 python@3.14
@@ -40,6 +41,7 @@ readline
 ruby-install
 simdjson
 sqlite
+tailscale
 transmission-cli
 uvwasi
 xz
